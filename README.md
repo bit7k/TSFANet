@@ -2,7 +2,6 @@
 
 Two-Stage Feature Aggregation Network for Road Crack Segmentation
 
-<img title="" src="Overall.png" alt="" data-align="center">
 
 ## 🔗 Dataset
 
