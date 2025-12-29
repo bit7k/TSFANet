@@ -1,8 +1,5 @@
 # TSFANet
 
-Two-Stage Feature Aggregation Network for Road Crack Segmentation
-
-
 ## 🔗 Dataset
 
 download the dataset [Crack500](https://github.com/guoguolord/CrackDataset) ,  [CrackMap](https://github.com/ikatsamenis/CrackMap) and [GAPS384](https://www.kaggle.com/datasets/vangiap/gaps384)
